@@ -1,11 +1,11 @@
 # Crowdfunding
 Designed a smart contract using Solidity, where Any contributor can contribute money in the form of ethers.
 
-Pseudo Code of the project can be found here: https://docs.google.com/document/d/16cKcFYBhvseISoZsyUyjU7416VJWtJDG/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true
+<p>Pseudo Code of the project can be found here: <a href= "https://docs.google.com/document/d/16cKcFYBhvseISoZsyUyjU7416VJWtJDG/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true"> Click Here </a></p>
 
-Code Snippets: https://docs.google.com/document/d/1YQ1IQR9Cgfh5L5NdIxwD-KuiB5HIGzR-/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true
+<p>Code Snippets: <a href= "https://docs.google.com/document/d/1YQ1IQR9Cgfh5L5NdIxwD-KuiB5HIGzR-/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true"> Click Here </a></p>
 
-Output and Result: https://docs.google.com/document/d/11rUTks5yIJks1fcrOKWJTUSDo9dN9g9S/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true
+<p>Output and Result: <a href= "https://docs.google.com/document/d/11rUTks5yIJks1fcrOKWJTUSDo9dN9g9S/edit?usp=sharing&ouid=100985619518311940584&rtpof=true&sd=true"> Click Here </a></p>
 
 Screenshot:
 
